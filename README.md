@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm Nehala G
 
+<h2> Developer </h2>
 <!--
 **nehala47/nehala47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
