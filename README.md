@@ -7,7 +7,7 @@
    :small_blue_diamond: I love dancing  and i listen to music in my pass time. :musical_note: <br>
 
   <a href="twitter.com/nehala13"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
-  <a href="facebook.com/nehalareshma"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+  <a href="https://www.facebook.com/nehala.reshma/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
   <a href="https://www.linkedin.com/in/nehala-g-3578481a0/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 <!--
